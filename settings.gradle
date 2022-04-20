@@ -1,0 +1,3 @@
+include ':ttsdkmodify'
+include ':app'
+rootProject.name = "TTSDK2"
